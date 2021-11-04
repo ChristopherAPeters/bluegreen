@@ -19,8 +19,8 @@
                 "height": 100
               },
               "position": {
-                "x": 345,
-                "y": 274
+                "x": 372,
+                "y": 265
               },
               "angle": 0,
               "id": "33ff3a9c-80fd-4e5b-8fb1-dffc7d1cd5dd",
@@ -85,6 +85,10 @@
                   "y": 136
                 },
                 {
+                  "x": 541,
+                  "y": 340
+                },
+                {
                   "x": 446,
                   "y": 518
                 }
@@ -110,8 +114,8 @@
                   "y": 237
                 },
                 {
-                  "x": 343,
-                  "y": 265
+                  "x": 327,
+                  "y": 242
                 }
               ],
               "id": "307bb29c-fa90-4646-bbf4-6831900ea97e",
@@ -258,8 +262,8 @@
                 "height": 80
               },
               "position": {
-                "x": 11,
-                "y": 183
+                "x": 12,
+                "y": 182
               },
               "angle": 0,
               "id": "56278e25-87ad-41cc-9396-1a166f3e4304",
@@ -274,6 +278,25 @@
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "8ffbe3d3-11a0-451c-b740-a31c0c459626",
+              "z": 10,
+              "attrs": {
+                "text": {
+                  "text": "actor 8"
                 }
               }
             }
