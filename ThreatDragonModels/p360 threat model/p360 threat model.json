@@ -9,7 +9,40 @@
       {
         "title": "p360 data flow diagram",
         "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
+        "id": 0,
+        "diagramJson": {
+          "cells": [
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 30,
+                "y": 20
+              },
+              "target": {
+                "x": 59,
+                "y": 514
+              },
+              "vertices": [
+                {
+                  "x": 301,
+                  "y": 154
+                },
+                {
+                  "x": 240,
+                  "y": 407
+                }
+              ],
+              "id": "a53a6602-dd5d-4ed1-8f66-876e26fbe969",
+              "z": 1,
+              "attrs": {}
+            }
+          ]
+        },
+        "size": {
+          "height": 590,
+          "width": 790
+        }
       }
     ]
   }
