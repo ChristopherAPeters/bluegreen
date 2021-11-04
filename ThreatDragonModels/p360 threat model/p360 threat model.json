@@ -149,8 +149,8 @@
                 "y": 242
               },
               "target": {
-                "x": 159,
-                "y": 517
+                "x": 23,
+                "y": 554
               },
               "vertices": [
                 {
@@ -189,7 +189,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "Smart app"
+                  "text": "Smart app: LR,\nUHS intake"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
