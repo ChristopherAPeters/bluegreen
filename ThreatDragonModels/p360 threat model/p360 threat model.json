@@ -169,6 +169,32 @@
               "id": "20a37f6a-415e-4c81-b0a1-4730bd78e6ee",
               "z": 6,
               "attrs": {}
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 45,
+                "y": 415
+              },
+              "angle": 0,
+              "id": "27c1d7ac-f8c4-43bc-9c0d-4b2dda3f08fc",
+              "z": 7,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "process 5"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
