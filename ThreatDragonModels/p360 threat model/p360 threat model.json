@@ -288,15 +288,22 @@
                 "height": 80
               },
               "position": {
-                "x": 50,
-                "y": 50
+                "x": 672,
+                "y": 46
               },
               "angle": 0,
               "id": "8ffbe3d3-11a0-451c-b740-a31c0c459626",
               "z": 10,
+              "hasOpenThreats": false,
               "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
                 "text": {
-                  "text": "actor 8"
+                  "text": "p360 user"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
             }
@@ -304,7 +311,7 @@
         },
         "size": {
           "height": 594.7852172851562,
-          "width": 790
+          "width": 872
         }
       }
     ]
