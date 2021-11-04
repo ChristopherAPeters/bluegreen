@@ -36,6 +36,58 @@
               "id": "a53a6602-dd5d-4ed1-8f66-876e26fbe969",
               "z": 1,
               "attrs": {}
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 373,
+                "y": 196
+              },
+              "angle": 0,
+              "id": "33ff3a9c-80fd-4e5b-8fb1-dffc7d1cd5dd",
+              "z": 2,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "bend"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Store",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 21,
+                "y": 316
+              },
+              "angle": 0,
+              "id": "0e2f23ec-4ba7-4c1b-bdd0-017fdcd03855",
+              "z": 3,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Hospital EHR"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
