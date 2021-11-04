@@ -20,7 +20,7 @@
               },
               "position": {
                 "x": 372,
-                "y": 265
+                "y": 264
               },
               "angle": 0,
               "id": "33ff3a9c-80fd-4e5b-8fb1-dffc7d1cd5dd",
@@ -289,8 +289,8 @@
                 "height": 80
               },
               "position": {
-                "x": 701,
-                "y": 57
+                "x": 705,
+                "y": 58
               },
               "angle": 0,
               "id": "8ffbe3d3-11a0-451c-b740-a31c0c459626",
@@ -331,14 +331,15 @@
                 "height": 100
               },
               "position": {
-                "x": 921,
-                "y": 203
+                "x": 930,
+                "y": 194
               },
               "angle": 0,
               "id": "bd7fa571-798e-4d3b-a145-014fa1145b1a",
               "z": 12,
               "hasOpenThreats": false,
               "privilegeLevel": "high",
+              "outOfScope": false,
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
