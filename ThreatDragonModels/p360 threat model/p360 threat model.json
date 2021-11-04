@@ -263,7 +263,7 @@
               },
               "position": {
                 "x": 12,
-                "y": 182
+                "y": 181
               },
               "angle": 0,
               "id": "56278e25-87ad-41cc-9396-1a166f3e4304",
@@ -274,7 +274,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "Commure platform user"
+                  "text": "Commure platform user\nv1"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -306,12 +306,28 @@
                   "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 984,
+                "y": 11
+              },
+              "target": {
+                "x": 718,
+                "y": 425
+              },
+              "vertices": [],
+              "id": "50d73512-9e4c-4a2f-aaac-cd5b8d26cbc9",
+              "z": 11,
+              "attrs": {}
             }
           ]
         },
         "size": {
           "height": 594.7852172851562,
-          "width": 872
+          "width": 992.5573120117188
         }
       }
     ]
