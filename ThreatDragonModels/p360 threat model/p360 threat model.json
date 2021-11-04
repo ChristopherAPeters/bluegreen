@@ -19,8 +19,8 @@
                 "height": 100
               },
               "position": {
-                "x": 346,
-                "y": 275
+                "x": 345,
+                "y": 274
               },
               "angle": 0,
               "id": "33ff3a9c-80fd-4e5b-8fb1-dffc7d1cd5dd",
@@ -177,8 +177,8 @@
                 "height": 100
               },
               "position": {
-                "x": 45,
-                "y": 415
+                "x": 29,
+                "y": 416
               },
               "angle": 0,
               "id": "27c1d7ac-f8c4-43bc-9c0d-4b2dda3f08fc",
@@ -189,7 +189,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "process 5"
+                  "text": "Smart app"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
