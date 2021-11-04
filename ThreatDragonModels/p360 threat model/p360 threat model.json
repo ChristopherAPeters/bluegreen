@@ -26,6 +26,7 @@
               "id": "33ff3a9c-80fd-4e5b-8fb1-dffc7d1cd5dd",
               "z": 2,
               "hasOpenThreats": false,
+              "privilegeLevel": "high",
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
@@ -288,7 +289,7 @@
                 "height": 80
               },
               "position": {
-                "x": 672,
+                "x": 671,
                 "y": 45
               },
               "angle": 0,
